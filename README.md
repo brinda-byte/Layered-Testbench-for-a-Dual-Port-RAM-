@@ -1,5 +1,6 @@
 # Layered-Testbench-for-a-Dual-Port-RAM-
 Dual-Port RAM is a type of memory that allows simultaneous access to two memory locations through two independent ports. Each port has its own address, data, and control signals, enabling parallel read and write operations without conflicts. This feature makes it highly efficient for systems requiring high-speed data exchange or concurrent processing.
+
 ![Screenshot 2025-02-06 002317](https://github.com/user-attachments/assets/af2b040f-b010-4bff-b93d-738e8c03be93)
 
 This repository is a SystemVerilog Layered Testbench written for a 8 bit Dual port RAM run on eda playground using the Siemens Questa 2024.3 Simulator
